@@ -37,4 +37,16 @@ You can launch the app online (after hosting on Streamlit Cloud):
 
 ## 📂 Project Structure
 
+🚀 Excited to share my latest project: **AI Customer Support Chatbot!** 🤖
 
+I built an AI‑powered chatbot that uses **Natural Language Processing (NLP)** to answer frequently asked questions automatically. It’s a great example of applying machine learning and text similarity techniques to real‑world problems.
+
+💡 **Technologies Used:** Python, Streamlit, Scikit‑learn, Pandas, NLP
+
+💻 **Try the live demo:** https://<your‑streamlit‑app‑link>.streamlit.app  
+🔗 **Explore the code:** https://github.com/sravanibandreddy/AI‑Customer‑Support‑Chatbot
+
+Feel free to try it and share feedback! 🙌  
+#AI #ML #Python #Streamlit #NLP #DataScience #Projects #Portfolio #Internship
+
+LinkedIn: https://www.linkedin.com/in/sravani-b-87b451293/
