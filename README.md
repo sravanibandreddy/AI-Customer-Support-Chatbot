@@ -1,3 +1,8 @@
+## 🌐 Live Demo
+
+Try the AI Customer Support Chatbot online:
+
+👉 https://ai-customer-support-chatbot-msx4dkeaf9asnvm8kaf2jp.streamlit.app/
  # 🤖 AI Customer Support Chatbot
 
 A **Smart AI Customer Support Chatbot** built with Python and NLP that can answer customer queries automatically by matching questions with pre-defined FAQs.  
